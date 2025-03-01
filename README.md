@@ -1,5 +1,5 @@
 ## Hi there 👋
-im sina
+Hello, my name is Mohammad Sina Nemati, I am a student of electrical engineering at KNTU University
 
 <!--
 **mohammadsinanemati/mohammadsinanemati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
